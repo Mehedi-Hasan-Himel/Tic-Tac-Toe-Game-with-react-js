@@ -2,9 +2,7 @@
 
 A clean, elegant, and fully responsive **Tic Tac Toe** game built with **React + Tailwind CSS**.  
 
-![Tic Tac Toe Preview](https://i.ibb.co.com/3m9n7vJ/tic-tac-toe-preview.jpg)  
-*(Live preview – bold, minimalist, and satisfying)*
-
+![Tic Tac Toe Preview](https://github.com/Mehedi-Hasan-Himel/Tic-Tac-Toe-Game-with-react-js/blob/main/src/assets/websiteUI.png?raw=true)
 
 
 ## Features
